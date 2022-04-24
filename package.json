@@ -5,6 +5,8 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "node-sass": "7.0.1",
+    "nodesass": "0.0.2-security",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-scripts": "4.0.0"
