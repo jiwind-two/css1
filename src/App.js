@@ -9,7 +9,8 @@ export default function App() {
   return (
     <div className="App">
       <InlineStyle />
-      <CssModules />
+
+      {/* <CssModules />　 */}
       <StyledJsx />
       <StyledComponents />
       <Emotion />
